@@ -305,7 +305,8 @@ Open `powerbi/Banking_Domain_Data_Analysis_project.pbix` in **Power BI Desktop**
 ## 👤 Author
 
 **Atul Tiwary**
-GitHub • LinkedIn
+[GitHub](https://github.com/AtulTiwary-0001) • [LinkedIn](https://linkedin.com/in/contact-atul-tiwary).
+
 
 ---
 
